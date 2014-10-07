@@ -1,0 +1,4 @@
+git is great
+
+git status - see status of my repo
+git branch - see status of branches
